@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useEffect } from 'react';
 import { supabase, Task } from './lib/supabase';
 import { TaskForm } from './components/TaskForm';
